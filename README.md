@@ -1,0 +1,2 @@
+# Learning-journal
+SOFTWARE PROJECT MANAGEMENT-6841
